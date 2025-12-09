@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=speech&height=400&color=ff9fec&text=Megavarshini%20V" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+learner+exploring+tech;%F0%9F%93%9AAlways+learning+and+improving;%F0%9F%9A%80Growing+skills+through+practice" alt="Typing SVG"/>
 
 </div>
 
