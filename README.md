@@ -93,7 +93,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabariyuhendh&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megavarshiniv &layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabariyuhendh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
 
 </div>
 
@@ -132,11 +132,10 @@
 ---
 
 ##  Currently Learning  
-- Advanced React patterns and state management
-- Backend integration with Firebase & MongoDB
-- Advanced Data Structures & Algorithms
-- Problem Solving techniques and optimization
-- Full-Stack Development best practices
+- Currently learning HTML to structure modern web pages effectively.
+- Exploring CSS for creating visually appealing and responsive designs.
+- Enhancing JavaScript skills for dynamic and interactive web functionality.
+- Studying React.js to build efficient, component-driven web applications.
 
 ---
 
