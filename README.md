@@ -82,8 +82,6 @@
 |----------|----------------|------------|
 | **LeetCode** | 30+ | 1346 |
 | **CodeChef** | 824 | 1080|
-| **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
 
 ###  **Hackathon Achievements**
 
@@ -142,8 +140,8 @@
 ##  Connect with Me  
 <p align="left">
   <a href="https://github.com/megavarshiniv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sabariyuhendhran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/megavarshini-v-395089333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="megavarshinivenkatesan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 ---
@@ -153,6 +151,6 @@
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
+**⭐ From [megavarshiniv](https://github.com/megavarshiniv)**
 
 </div>
